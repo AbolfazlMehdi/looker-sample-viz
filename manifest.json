@@ -1,0 +1,17 @@
+{
+  "dataStudio": {
+    "name": "Sample Viz",
+    "logoUrl": "https://www.gstatic.com/images/branding/product/1x/datastudio_512dp.png",
+    "company": "Your Name",
+    "supportUrl": "https://github.com/AbolfazlMehdi",
+    "description": "A sample community visualization"
+  },
+  "components": [
+    {
+      "id": "sample_viz",
+      "label": "Sample Viz",
+      "type": "COMMUNITY",
+      "path": "index.html"
+    }
+  ]
+}
